@@ -39,3 +39,5 @@ else
     echo "Error: Failed to create minimized database dump."
     exit 1
 fi
+
+echo "done"
